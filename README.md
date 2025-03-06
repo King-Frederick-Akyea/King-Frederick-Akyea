@@ -1,7 +1,7 @@
 # Hi, I’m **King-Frederick Akyea** 👋 
  - I’m into **Software Development** (*both backend and frontend*), **Robotics**, **Waste Management Tech** and **IoT** 
 - You can reach me on [Linkedin](https://www.linkedin.com/in/king-akyea/) and [Email](akyeaking2007@gmail.com)
-- Check out my [My Portfolio](https://portfolio-website-king-frederick-akyeas-projects.vercel.app/)
+- Check out  [My Portfolio](https://portfolio-website-king-frederick-akyeas-projects.vercel.app/)
 - Fun fact: I'm fun to work with😉
 
 <!---
